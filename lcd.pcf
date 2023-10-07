@@ -1,0 +1,17 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sat Oct 07 17:33:19 2023
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "lcd_rw" LOCATE = SITE "P10" LEVEL 1;
+COMP "data<0>" LOCATE = SITE "P12" LEVEL 1;
+COMP "data<1>" LOCATE = SITE "P14" LEVEL 1;
+COMP "clk" LOCATE = SITE "P51" LEVEL 1;
+COMP "data<2>" LOCATE = SITE "P15" LEVEL 1;
+COMP "data<3>" LOCATE = SITE "P16" LEVEL 1;
+COMP "lcd_e" LOCATE = SITE "P11" LEVEL 1;
+COMP "lcd_rs" LOCATE = SITE "P9" LEVEL 1;
+COMP "SF_CEO" LOCATE = SITE "P17" LEVEL 1;
+COMP "rst" LOCATE = SITE "P24" LEVEL 1;
+SCHEMATIC END;
+
